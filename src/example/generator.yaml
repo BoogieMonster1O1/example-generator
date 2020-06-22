@@ -1,5 +1,5 @@
 name: Example generator for(@buildfileversion)
-basefeatures: [global_variables, model_json, model_java, model_obj, link]
+basefeatures: [model_json]
 status: dev
 buildfileversion: 0.0.1
 
