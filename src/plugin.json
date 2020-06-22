@@ -1,5 +1,5 @@
 {
-  "id": "generator-example",
+  "id": "generator-datapack-example",
   "minversion": 202000300000,
   "info": {
     "name": "Example MCreator Generator Plugin",
